@@ -1,6 +1,6 @@
 # DiaWeb
 Proyecto Final de Dai: Diaweb
-Isaias Jesus Garcia Moreno 
-Miguel Angel Cifuentes Jimenez
-Jose Luis Sandin Espinoza
-Luciano Montes de Oca
+Isaias Jesus Garcia Moreno <br>
+Miguel Angel Cifuentes Jimenez <br>
+Jose Luis Sandin Espinoza <br>
+Luciano Montes de Oca <br>
